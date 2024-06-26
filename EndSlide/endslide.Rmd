@@ -1,0 +1,10 @@
+
+
+background-image: url("figs/tim-chow-9IcKPSQ9G5Q-unsplash.jpg")
+background-size: cover
+class: hide-slide-number split-70, center, middle
+count: false
+
+.end-slide[.black[.Large[.Bold[Thank You]]]]
+<br>
+.tiny[Photo by <a href="https://unsplash.com/@timchowstudio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Chow</a> on <a href="https://unsplash.com/photos/9IcKPSQ9G5Q?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]  
